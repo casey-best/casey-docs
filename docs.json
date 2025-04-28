@@ -7,7 +7,7 @@
     "light": "#b3dbfe",
     "dark": "#b3dbfe"
   },
-  "favicon": "/favicon.ico",
+  "favicon": "favicon.ico",
   "navigation": {
     "groups": [
       {
@@ -34,8 +34,8 @@
     }
   },
   "logo": {
-    "light": "/favicon.ico",
-    "dark": "/favicon.ico"
+    "light": "favicon.ico",
+    "dark": "favicon.ico"
   },
   "footer": {
     "socials": {}
