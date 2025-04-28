@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Casey Docs",
+  "name": "casey Docs",
   "colors": {
     "primary": "#b3dbfe",
     "light": "#b3dbfe",
@@ -13,8 +13,7 @@
       {
         "group": "Overview",
         "pages": [
-          "introduction",
-          "commands"
+          "introduction"
         ]
       }
     ],
